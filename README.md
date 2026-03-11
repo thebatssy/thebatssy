@@ -21,7 +21,7 @@
 ## 📈 Current Focus
 - Competitive programming & edge-case debugging  
 - Building backend projects with Django & REST APIs  
-- Exploring cybersecurity fundamentals  
+- Exploring Security fundamentals  
 
 ---
 
@@ -33,7 +33,10 @@
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-singh-bhadouriya)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/thebatssy)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/thebatssy)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/thebatssy/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/thebatssy/profile)
+
 
 ---
 ✨ *Always learning, debugging, and sharing the journey.*
