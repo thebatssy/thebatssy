@@ -1,6 +1,6 @@
-# Hi, I'm Gaurav 👋
+# Hi, I'm Gaurav Singh Bhadouriya
 
-🎓 Pre-final year CSE student | 💻 Programming & DSA | ⚙️ Backend Dev | 🔐 Cybersecurity Explorer | 🎬 Video Editing Enthusiast  
+🎓 Final year CSE undergrad | 💻 Programming & DSA | ⚙️ Backend Dev | 🔐 Cybersecurity Explorer | 🎬 Video Editing Enthusiast  
 
 ---
 
